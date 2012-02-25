@@ -1,4 +1,0 @@
-user/libsyscall/thread_fork.o: user/libsyscall/thread_fork.S \
- spec/syscall_int.h
-
-spec/syscall_int.h:

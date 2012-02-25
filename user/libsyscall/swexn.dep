@@ -1,3 +1,0 @@
-user/libsyscall/swexn.o: user/libsyscall/swexn.S spec/syscall_int.h
-
-spec/syscall_int.h:

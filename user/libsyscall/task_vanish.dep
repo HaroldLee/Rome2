@@ -1,4 +1,0 @@
-user/libsyscall/task_vanish.o: user/libsyscall/task_vanish.S \
- spec/syscall_int.h
-
-spec/syscall_int.h:

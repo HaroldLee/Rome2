@@ -1,3 +1,0 @@
-user/libsyscall/getchar.o: user/libsyscall/getchar.S spec/syscall_int.h
-
-spec/syscall_int.h:

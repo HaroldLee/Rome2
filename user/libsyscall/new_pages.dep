@@ -1,4 +1,0 @@
-user/libsyscall/new_pages.o: user/libsyscall/new_pages.S \
- spec/syscall_int.h
-
-spec/syscall_int.h:

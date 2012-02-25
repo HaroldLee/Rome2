@@ -1,2 +1,0 @@
-user/libthread/get_thread_from_stack.o: \
- user/libthread/get_thread_from_stack.S

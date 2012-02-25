@@ -1,0 +1,20 @@
+user/libthread/hashtable.o: user/libthread/hashtable.c \
+ 410user/libstdio/stdio.h 410user/inc/stddef.h 410user/inc/types.h \
+ 410user/inc/stdarg.h 410user/libstdlib/stdlib.h 410user/inc/malloc.h \
+ user/inc/def.h user/inc/hashtable.h
+
+410user/libstdio/stdio.h:
+
+410user/inc/stddef.h:
+
+410user/inc/types.h:
+
+410user/inc/stdarg.h:
+
+410user/libstdlib/stdlib.h:
+
+410user/inc/malloc.h:
+
+user/inc/def.h:
+
+user/inc/hashtable.h:

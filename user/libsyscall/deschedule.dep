@@ -1,0 +1,4 @@
+user/libsyscall/deschedule.o: user/libsyscall/deschedule.S \
+ spec/syscall_int.h
+
+spec/syscall_int.h:

@@ -1,0 +1,41 @@
+user/libthread/thread.o: user/libthread/thread.c 410user/libstdio/stdio.h \
+ 410user/inc/stddef.h 410user/inc/types.h 410user/inc/stdarg.h \
+ 410user/libstdlib/stdlib.h 410user/inc/malloc.h spec/syscall.h \
+ spec/ureg.h 410user/inc/thread.h user/inc/thr_internals.h \
+ 410user/inc/mutex.h user/inc/mutex_type.h 410user/inc/cond.h \
+ user/inc/cond_type.h user/inc/linklist.h user/inc/def.h \
+ 410user/libsimics/simics.h
+
+410user/libstdio/stdio.h:
+
+410user/inc/stddef.h:
+
+410user/inc/types.h:
+
+410user/inc/stdarg.h:
+
+410user/libstdlib/stdlib.h:
+
+410user/inc/malloc.h:
+
+spec/syscall.h:
+
+spec/ureg.h:
+
+410user/inc/thread.h:
+
+user/inc/thr_internals.h:
+
+410user/inc/mutex.h:
+
+user/inc/mutex_type.h:
+
+410user/inc/cond.h:
+
+user/inc/cond_type.h:
+
+user/inc/linklist.h:
+
+user/inc/def.h:
+
+410user/libsimics/simics.h:

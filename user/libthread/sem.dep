@@ -1,0 +1,22 @@
+user/libthread/sem.o: user/libthread/sem.c user/inc/def.h \
+ user/inc/sem_type.h user/inc/mutex_type.h user/inc/cond_type.h \
+ 410user/inc/mutex.h user/inc/linklist.h 410user/inc/cond.h \
+ spec/syscall.h spec/ureg.h
+
+user/inc/def.h:
+
+user/inc/sem_type.h:
+
+user/inc/mutex_type.h:
+
+user/inc/cond_type.h:
+
+410user/inc/mutex.h:
+
+user/inc/linklist.h:
+
+410user/inc/cond.h:
+
+spec/syscall.h:
+
+spec/ureg.h:

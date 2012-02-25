@@ -1,0 +1,4 @@
+user/libsyscall/misbehave.o: user/libsyscall/misbehave.S \
+ spec/syscall_int.h
+
+spec/syscall_int.h:

@@ -1,0 +1,4 @@
+user/libsyscall/make_runnable.o: user/libsyscall/make_runnable.S \
+ spec/syscall_int.h
+
+spec/syscall_int.h:

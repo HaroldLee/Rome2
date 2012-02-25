@@ -1,0 +1,3 @@
+user/libsyscall/halt.o: user/libsyscall/halt.S spec/syscall_int.h
+
+spec/syscall_int.h:

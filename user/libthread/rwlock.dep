@@ -1,0 +1,29 @@
+user/libthread/rwlock.o: user/libthread/rwlock.c spec/syscall.h \
+ spec/ureg.h user/inc/def.h 410user/inc/stddef.h 410user/inc/types.h \
+ 410user/inc/mutex.h user/inc/mutex_type.h 410user/inc/cond.h \
+ user/inc/cond_type.h user/inc/linklist.h 410user/inc/rwlock.h \
+ user/inc/rwlock_type.h
+
+spec/syscall.h:
+
+spec/ureg.h:
+
+user/inc/def.h:
+
+410user/inc/stddef.h:
+
+410user/inc/types.h:
+
+410user/inc/mutex.h:
+
+user/inc/mutex_type.h:
+
+410user/inc/cond.h:
+
+user/inc/cond_type.h:
+
+user/inc/linklist.h:
+
+410user/inc/rwlock.h:
+
+user/inc/rwlock_type.h:

@@ -1,0 +1,3 @@
+user/libsyscall/vanish.o: user/libsyscall/vanish.S spec/syscall_int.h
+
+spec/syscall_int.h:

@@ -1,0 +1,4 @@
+user/libsyscall/set_cursor_pos.o: user/libsyscall/set_cursor_pos.S \
+ spec/syscall_int.h
+
+spec/syscall_int.h:

@@ -1,0 +1,3 @@
+user/libsyscall/print.o: user/libsyscall/print.S spec/syscall_int.h
+
+spec/syscall_int.h:

@@ -1,0 +1,3 @@
+user/libsyscall/ls.o: user/libsyscall/ls.S spec/syscall_int.h
+
+spec/syscall_int.h:

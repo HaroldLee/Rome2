@@ -1,0 +1,4 @@
+user/libsyscall/get_ticks.o: user/libsyscall/get_ticks.S \
+ spec/syscall_int.h
+
+spec/syscall_int.h:

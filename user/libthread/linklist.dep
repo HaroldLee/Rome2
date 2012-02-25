@@ -1,0 +1,8 @@
+user/libthread/linklist.o: user/libthread/linklist.c user/inc/linklist.h \
+ 410user/inc/stddef.h 410user/inc/types.h
+
+user/inc/linklist.h:
+
+410user/inc/stddef.h:
+
+410user/inc/types.h:

@@ -1,0 +1,15 @@
+user/libthread/mutex.o: user/libthread/mutex.c spec/syscall.h spec/ureg.h \
+ user/inc/def.h 410user/inc/stddef.h 410user/inc/types.h \
+ user/inc/mutex_type.h
+
+spec/syscall.h:
+
+spec/ureg.h:
+
+user/inc/def.h:
+
+410user/inc/stddef.h:
+
+410user/inc/types.h:
+
+user/inc/mutex_type.h:
